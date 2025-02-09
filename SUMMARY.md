@@ -8,3 +8,5 @@
   * [编程能力整理](bian-cheng/bian-cheng-neng-li-zheng-li-1.md)
 * [0 核心](0 核心/README.md)
   * [0 我的做人原则](0 核心/我的做人原则.md)
+* [啦啦啦](0-test/README.md)
+  * [测试一下](0-test/test.md)
