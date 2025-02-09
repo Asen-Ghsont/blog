@@ -38,7 +38,7 @@
     - [Asia](3Knowledge/2History/Asia/README.md)
       - [Korean](3Knowledge/2History/Asia/Korean/README.md)
           - [Coup Trilogy.md](3Knowledge/2History/Asia/Korean/CoupTrilogy.md)
-          - [近现代史.md](3Knowledge/2History/Asia/Korean/jin-xian-dai-shi.md)
+          - [Modern History.md](3Knowledge/2History/Asia/Korean/ModernHistory.md)
       - [Malaya](3Knowledge/2History/Asia/Malaya/README.md)
     - [Europe](3Knowledge/2History/Europe/README.md)
   - [3 Geography](3Knowledge/3Geography/README.md)
