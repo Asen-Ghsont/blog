@@ -13,7 +13,7 @@
       - [2501 3×7 Plan](1Ability/Body/Muscle/25013×7Plan/README.md)
           - [0 Plan Overview.md](1Ability/Body/Muscle/25013×7Plan/0PlanOverview.md)
           - [1 Adapt & Adjust.md](1Ability/Body/Muscle/25013×7Plan/1Adapt&Adjust.md)
-          - [2 Keep & Stable.md](1Ability/Body/Muscle/25013×7Plan/2Keep&Stable.md)
+          - [2 Keep & Stabilize.md](1Ability/Body/Muscle/25013×7Plan/2Keep&Stabilize.md)
           - [3 冲刺调整阶段.md](1Ability/Body/Muscle/25013×7Plan/3-chong-ci-tiao-zheng-jie-duan.md)
   - [Mind](1Ability/Mind/README.md)
   - [Skill](1Ability/Skill/README.md)
