@@ -52,6 +52,7 @@
   - [Music](5Amusement/Music/README.md)
   - [SUMMARY.md](SUMMARY.md)
 - [[ELSE]]([ELSE]/README.md)
+  - [Activity]([ELSE]/Activity/README.md)
   - [家庭]([ELSE]/jia-ting/README.md)
       - [Main.md]([ELSE]/jia-ting/Main.md)
     - [前辈]([ELSE]/jia-ting/qian-bei/README.md)
@@ -61,4 +62,3 @@
       - [2024.md]([ELSE]/nian-du-zong-jie/2024.md)
   - [朋友]([ELSE]/peng-you/README.md)
     - [暖心时刻]([ELSE]/peng-you/nuan-xin-shi-ke/README.md)
-  - [活动]([ELSE]/huo-dong/README.md)
