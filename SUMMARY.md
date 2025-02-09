@@ -1,10 +1,10 @@
 # Table of contents
 
-- [0 核心](0-he-xin/README.md)
-    - [0 我的做人原则.md](0-he-xin/0-wo-de-zuo-ren-yuan-ze.md)
-    - [1 我的环境抽象.md](0-he-xin/1-wo-de-huan-jing-chou-xiang.md)
-    - [2 我的人生目标.md](0-he-xin/2-wo-de-ren-sheng-mu-biao.md)
-    - [README.md](0-he-xin/README.md)
+- [0 core](0core/README.md)
+    - [0 我的做人原则.md](0core/0-wo-de-zuo-ren-yuan-ze.md)
+    - [1 我的环境抽象.md](0core/1-wo-de-huan-jing-chou-xiang.md)
+    - [2 我的人生目标.md](0core/2-wo-de-ren-sheng-mu-biao.md)
+    - [README.md](0core/README.md)
 - [1 能力](1-neng-li/README.md)
   - [意志](1-neng-li/yi-zhi/README.md)
   - [技能](1-neng-li/ji-neng/README.md)
