@@ -1,7 +1,6 @@
 # Table of contents
 
 - [0 核心](0-he-xin/README.md)
-- [0-test](0test/README.md)
 - [1 能力](1-neng-li/README.md)
   - [意志](yi-zhi/README.md)
   - [技能](ji-neng/README.md)
@@ -39,8 +38,6 @@
   - [游戏](you-xi/README.md)
   - [音乐](yin-yue/README.md)
   - [魔术](mo-shu/README.md)
-- [bian-cheng](biancheng/README.md)
-- [wo](wo/README.md)
 - [[ELSE] 其他]([ELSE]-qi-ta/README.md)
   - [家庭](jia-ting/README.md)
     - [前辈](qian-bei/README.md)
