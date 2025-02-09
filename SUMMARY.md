@@ -41,7 +41,7 @@
       - [马来亚](3Knowledge/2History/ya-zhou/ma-lai-ya/README.md)
     - [欧洲](3Knowledge/2History/ou-zhou/README.md)
     - [美洲](3Knowledge/2History/mei-zhou/README.md)
-  - [3 地理](3Knowledge/3-di-li/README.md)
+  - [3 Geography](3Knowledge/3Geography/README.md)
 - [4 Wife](4Wife/README.md)
   - [喜欢的人](4Wife/xi-huan-de-ren/README.md)
   - [性](4Wife/xing/README.md)
