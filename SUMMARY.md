@@ -1,7 +1,7 @@
 # Table of contents
 
 - [0 core](0core/README.md)
-    - [0 我的做人原则.md](0core/0-wo-de-zuo-ren-yuan-ze.md)
+    - [0 my princeple.md](0core/0myprinceple.md)
     - [1 我的环境抽象.md](0core/1-wo-de-huan-jing-chou-xiang.md)
     - [2 我的人生目标.md](0core/2-wo-de-ren-sheng-mu-biao.md)
     - [README.md](0core/README.md)
