@@ -1,10 +1,10 @@
 # Table of contents
 
-- [0 core](0core/README.md)
-    - [0 Principles of Life.md](0core/0PrinciplesofLife.md)
-    - [1 Envorinmental Abstraction.md](0core/1EnvorinmentalAbstraction.md)
-    - [2 Life Goals.md](0core/2LifeGoals.md)
-    - [README.md](0core/README.md)
+- [0 Core](0Core/README.md)
+    - [0 Principles of Life.md](0Core/0PrinciplesofLife.md)
+    - [1 Envorinmental Abstraction.md](0Core/1EnvorinmentalAbstraction.md)
+    - [2 Life Goals.md](0Core/2LifeGoals.md)
+    - [README.md](0Core/README.md)
 - [1 Ability](1Ability/README.md)
   - [意志](1Ability/yi-zhi/README.md)
   - [技能](1Ability/ji-neng/README.md)
