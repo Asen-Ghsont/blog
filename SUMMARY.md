@@ -17,7 +17,7 @@
           - [3 Sprint & Adjust.md](1Ability/Body/Muscle/25013×7Plan/3Sprint&Adjust.md)
   - [Mind](1Ability/Mind/README.md)
   - [Skill](1Ability/Skill/README.md)
-    - [Darw](1Ability/Skill/Darw/README.md)
+    - [Draw](1Ability/Skill/Draw/README.md)
     - [Drive](1Ability/Skill/Drive/README.md)
 - [2 Life](2Life/README.md)
   - [Cooking](2Life/Cooking/README.md)
