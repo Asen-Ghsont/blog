@@ -2,7 +2,7 @@
 
 - [0 core](0core/README.md)
     - [0 Principles of Life.md](0core/0PrinciplesofLife.md)
-    - [1 我的环境抽象.md](0core/1-wo-de-huan-jing-chou-xiang.md)
+    - [1 Envorinmental Abstraction.md](0core/1EnvorinmentalAbstraction.md)
     - [2 我的人生目标.md](0core/2-wo-de-ren-sheng-mu-biao.md)
     - [README.md](0core/README.md)
 - [1 能力](1-neng-li/README.md)
