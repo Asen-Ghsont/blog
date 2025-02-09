@@ -8,7 +8,7 @@
 - [1 Ability](1Ability/README.md)
   - [Activity](1Ability/Activity/README.md)
   - [Body](1Ability/Body/README.md)
-    - [cardiopulmonary](1Ability/Body/cardiopulmonary/README.md)
+    - [Cardiopulmonary](1Ability/Body/Cardiopulmonary/README.md)
     - [Muscle](1Ability/Body/Muscle/README.md)
       - [【25年1月】3×7计划](1Ability/Body/Muscle/【25-nian-1-yue-】3×7-ji-hua/README.md)
           - [0 7×3计划总览.md](1Ability/Body/Muscle/【25-nian-1-yue-】3×7-ji-hua/07×3-ji-hua-zong-lan.md)
