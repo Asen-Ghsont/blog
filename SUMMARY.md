@@ -3,7 +3,7 @@
 - [0 core](0core/README.md)
     - [0 Principles of Life.md](0core/0PrinciplesofLife.md)
     - [1 Envorinmental Abstraction.md](0core/1EnvorinmentalAbstraction.md)
-    - [2 我的人生目标.md](0core/2-wo-de-ren-sheng-mu-biao.md)
+    - [2 Life Goals.md](0core/2LifeGoals.md)
     - [README.md](0core/README.md)
 - [1 能力](1-neng-li/README.md)
   - [意志](1-neng-li/yi-zhi/README.md)
