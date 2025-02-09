@@ -1,9 +1,9 @@
 # Table of contents
 
-- [0 Core](0 Core/README.md)
-    - [0 Principles of Life](0 Core/0-Principles-of-Life.md)
-    - [1 Envorinmental Abstraction](0 Core/1-Envorinmental-Abstraction.md)
-    - [2 Life Goals](0 Core/2-Life-Goals.md)
+- [0 Core](0-Core/README.md)
+    - [0 Principles of Life](0-Core/0-Principles-of-Life.md)
+    - [1 Envorinmental Abstraction](0-Core/1-Envorinmental-Abstraction.md)
+    - [2 Life Goals](0-Core/2-Life-Goals.md)
 - [1 Ability](1 Ability/README.md)
   - [Activity](1 Ability/Activity/README.md)
   - [Body](1 Ability/Body/README.md)
