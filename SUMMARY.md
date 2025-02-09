@@ -57,7 +57,7 @@
       - [2024.md]([ELSE]/AnnualSummary/2024.md)
   - [Family]([ELSE]/Family/README.md)
       - [Main.md]([ELSE]/Family/Main.md)
-    - [前辈]([ELSE]/Family/qian-bei/README.md)
+    - [Senior]([ELSE]/Family/Senior/README.md)
     - [同辈]([ELSE]/Family/tong-bei/README.md)
     - [晚辈]([ELSE]/Family/wan-bei/README.md)
   - [Friend]([ELSE]/Friend/README.md)
