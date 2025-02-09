@@ -39,7 +39,7 @@
       - [Korean](3Knowledge/2History/Asia/Korean/README.md)
           - [近现代史.md](3Knowledge/2History/Asia/Korean/jin-xian-dai-shi.md)
           - [韩国政变三部曲.md](3Knowledge/2History/Asia/Korean/han-guo-zheng-bian-san-bu-qu.md)
-      - [马来亚](3Knowledge/2History/Asia/ma-lai-ya/README.md)
+      - [Malaya](3Knowledge/2History/Asia/Malaya/README.md)
     - [Europe](3Knowledge/2History/Europe/README.md)
   - [3 Geography](3Knowledge/3Geography/README.md)
 - [4 Wife](4Wife/README.md)
