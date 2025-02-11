@@ -37,7 +37,7 @@
     - [Asia](3-Knowledge/2-History/Asia/README.md)
       - [Korean](3-Knowledge/2-History/Asia/Korean/README.md)
           - [Coup Trilogy](3-Knowledge/2-History/Asia/Korean/Coup-Trilogy.md)
-          - [Modern History](3-Knowledge/2-History/Asia/Korean/Modern History.md)
+          - [Modern History](3-Knowledge/2-History/Asia/Korean/Modern-History.md)
       - [Malaya](3-Knowledge/2-History/Asia/Malaya/README.md)
     - [Europe](3-Knowledge/2-History/Europe/README.md)
   - [3 Geography](3-Knowledge/3-Geography/README.md)
